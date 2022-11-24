@@ -1,4 +1,14 @@
-### Hi there 👋
+Hi!
+
+I’ve been interested in software development for as long as I can remember, and I also very much enjoy software architecture and working closely with the business. I strongly believe that understanding the business is a must to make correct trade-offs and writing good software. Speaking of code, I would mainly consider myself a backend developer who doesn’t shy away from the frontend if need be.
+
+I'm into open-source and have created several popular libraries for the JVM platform (for example [Occurrent](https://occurrent.org/), [PowerMock](http://powermock.org/), [Rest Assured](https://rest-assured.io/) and [Awaitility](http://www.awaitility.org/)). I like learning new things and I have experience in different languages such as Java, Kotlin, Clojure, Scala, and Groovy. 
+
+Frequent speaker at user groups, companies and conferences such as Öredev, Jazoon, Devoxx, and JFokus.
+
+Besides software, I’m also intrigued by philosophy, cognition, mathematics, and science in general.
+
+📫 You can reach me at [Twitter](https://twitter.com/johanhaleby) and [LinkedIn](https://se.linkedin.com/in/johan-haleby-a1163b4a).
 
 <!--
 **johanhaleby/johanhaleby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
